@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FilaOperacoes/FilaOperacoes.iml" filepath="$PROJECT_DIR$/FilaOperacoes/FilaOperacoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaOperacoes/ListaOperacoes.iml" filepath="$PROJECT_DIR$/ListaOperacoes/ListaOperacoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PilhaOperacoes/PilhaOperacoes.iml" filepath="$PROJECT_DIR$/PilhaOperacoes/PilhaOperacoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TrabalhoEstruturaDadosLista.iml" filepath="$PROJECT_DIR$/.idea/TrabalhoEstruturaDadosLista.iml" />
+    </modules>
+  </component>
+</project>
