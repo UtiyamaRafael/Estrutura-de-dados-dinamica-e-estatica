@@ -25,6 +25,11 @@ public class PilhaDinamica<T> {
     }
 
     public void exibir(){
+
+        if (this.inicio == null) {
+            return;
+        }
+
         No<T> aux = this.inicio;
         while (aux.getProx() != null) {
             System.out.println(aux.getConteudo());
